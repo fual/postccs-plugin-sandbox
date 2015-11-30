@@ -1,0 +1,20 @@
+{
+  "name": "p",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulp.js",
+  "dependencies": {
+    "autoprefixer": "^6.1.1",
+    "gulp": "^3.9.0",
+    "gulp-postcss": "^6.0.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-postcss": "^6.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Khlebaev Alexey <f20music@narod.ru>",
+  "license": "ISC"
+}
